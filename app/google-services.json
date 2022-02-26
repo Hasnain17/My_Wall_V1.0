@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855089316077",
+    "project_id": "my-wall-2a349",
+    "storage_bucket": "my-wall-2a349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855089316077:android:a883c7f4854d172ee08ce4",
+        "android_client_info": {
+          "package_name": "com.isystech.mywall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855089316077-s4heuub51d78ndj54fv0cse8ac875395.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isystech.mywall",
+            "certificate_hash": "808c7cca73bd09614ad145c61d906921d482f6ab"
+          }
+        },
+        {
+          "client_id": "855089316077-sj78cn01ecq3lg5cdesvjk4csofu20jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAezJ0kpk--h4KX1DE9s2fxtEtLYGuIFTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855089316077-sj78cn01ecq3lg5cdesvjk4csofu20jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

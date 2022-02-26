@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Wall</string>
+    <string name="morning">Morning</string>
+    <string name="night">Night</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="nature">Nature</string>
+    <string name="woman">Woman</string>
+    <string name="_4k">4K</string>
+    <string name="fashion">Fashion</string>
+    <string name="beautiful">Beautiful</string>
+    <string name="cars">Cars</string>
+    <string name="search_for_wallpapers">Search for wallpapers</string>
+
+</resources>
